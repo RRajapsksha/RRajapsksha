@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Renuka Rajapaksha</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RenukaRajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="RenukaRajapaksha" /> </p>
 
 - 🔭 I’m currently Learning **Java.HTML.CSS.C#**
 
